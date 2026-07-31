@@ -1,0 +1,57 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background-color:#653443;
+}
+
+table {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+h1 {
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 40px;
+	text-align: center;
+	color:#DFC46C;
+}
+.tableContents {
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 18px;
+	text-align: center;
+	color:#DFC46C;
+	line-height: 1.2;
+}
+.heartIcon {
+	text-align: center;
+	margin-top: 15px;
+}
+h2 {
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 24px;
+	line-height: 1.1;
+	text-align: center;
+	color:#DFC46C;
+}
+p {
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 15px;
+	line-height: 1.2;
+	text-align: left;
+	color:lavender;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+a:link {
+	color:darkkhaki;
+	text-decoration: none;
+}
+a:visited {
+	color:darkgoldenrod
+}
+
+
+
+
+
