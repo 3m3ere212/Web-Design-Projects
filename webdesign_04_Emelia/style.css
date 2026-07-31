@@ -1,0 +1,63 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	
+	background-image: url("images/flower_back.jpg")
+}
+
+.wrapper {
+	margin: auto;
+	width:820px;
+}
+header {
+	text-align: center;
+	
+}
+
+.appet, .appet, .entrees, .drinks, .desserts {
+	
+	margin:auto;
+	width: 800px;
+	padding: 10px;
+	border: solid #F36945;
+	border-radius: 20px;
+	background-color:#FADE56;
+}
+
+h1 {
+	text-align: center;
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	font-size: 35px;
+	color: #B13D2B;
+	background:#FF9F87;
+	border: solid #F36945;
+	border-radius: 20px;
+}
+
+h2 {
+	text-align: center;
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	font-size: 25px;
+	line-height: 16px;
+	color:#2337A1;
+	
+}
+
+p {
+	text-align: center;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 17px;
+	line-height: 16px; 
+	text-stroke: 1px #000;
+	color:#FFFFFF;
+}
+
+.price {
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size:20px;
+}
+
+a {
+	align: center;
+}
