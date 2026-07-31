@@ -1,2 +1,2 @@
-# Web-Design-Projects
-A beginner level projects for my Web Design course.
+# Web-Design-Project 2
+A simple travel brochure based on my favorite places.
